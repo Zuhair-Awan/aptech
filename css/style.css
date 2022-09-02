@@ -1,0 +1,520 @@
+.main1{
+    background-color: rgba(0, 0, 0, 0.534);
+    height: 400px;
+    width: 100%;
+display: flex; 
+}
+.main{
+   
+    background-image: url(../img/dustin-tramel-KuuQczwD4IA-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+ul{
+    display: inline-flex;
+    list-style-type: none;
+    color: white;
+    margin-left: -10%;
+    font-size: 130%;
+    display: flex;
+    
+}
+ ul li{
+    text-decoration: none;
+    
+
+float: left;
+flex-direction: column;    
+width: 100px;
+margin: 10px;
+padding: 2px;
+}
+h1{
+    color: rgb(255, 174, 0);
+    
+}
+H2{
+
+    margin-left: 2%;
+    margin-top: 20px;
+    font-size: 25px;
+    color: #fff;
+  
+ 
+}
+ul li:hover{
+    color: rgb(34, 241, 248);
+    cursor: pointer;
+}
+button{
+    height: 30px;
+    width: 120px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: rgb(18, 72, 248);
+    color: #fff;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+}
+button:hover{
+    box-shadow: white 1px 1px 20px 2px;
+    cursor: pointer;
+}
+.text{
+    margin-left: 40%;
+    font-size: 40px;
+    display: flex;
+    margin-top: 100px;
+}
+h4{
+    margin-top: 190px;
+    font-size: 40px;
+    color: #fff;
+    font-family: cursive;
+}
+h3{
+    margin-top: 190px;
+    font-size: 40px;
+    color: rgb(255, 174, 0);
+    font-family: 'Courgette', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Smooch', cursive;
+font-family: 'Splash', cursive;
+font-family: 'Great Vibes', cursive;
+}
+.ali{
+    margin-top: -150px;
+    margin-left: 180px;
+    color: #fff;
+}
+.special{
+    box-shadow: 1px 1px 20px -1px;
+    background-image: url(../img/istockphoto-882906386-612x612.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 40%;
+    width: 20%;
+    margin-top: 50px;
+    display: flex;
+    margin-left: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.special1{
+    box-shadow: 1px 1px 20px -1px;
+    background-image: url(../img/second\ party_1109615582-scaled.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 40%;
+    width: 20%;
+    margin-top: -240px;
+    display: flex;
+    margin-left: 550px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.special2{
+    box-shadow: 1px 1px 20px -1px;
+    background-image: url(../img/wedding-planners-eventiya-by-aditya-mishra-wedding-decor-4_15_349243-159774235262973.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 40%;
+    width: 20%;
+    margin-top: -240px;
+    display: flex;
+    margin-left: 900px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.hed{
+    margin-top: 10px;
+    margin-left: 42%;
+    font-size: 40px;
+}
+h23{
+    font-size: 20px;
+    margin-left: -130px;
+}
+.awan{
+    height: 600px;
+    background-color: white;
+    width: 100%;
+}
+.ic{
+    box-shadow: 1px 1px 20px -1px;
+    height: 140px;
+    background-color: #fff;
+    width: 100%;
+    margin-top: 200px;
+    
+}
+.ic1{
+    box-shadow: 1px 1px 20px -1px;
+    height: 140px;
+    background-color: #fff;
+    width: 100%;
+    margin-top: 200px;
+    
+}
+i{
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+h33{
+    color: rgb(253, 185, 37);
+}
+H26{
+    margin-left: 5px;
+    font-size: 20PX;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.load{
+    margin-left: 630px;
+    margin-top: -90px;
+    font-size: 20px;
+    background-color: rgb(255, 174, 0);
+    width: 120px;
+    height: 35px;
+    border-radius: 30px;
+    border-top: 10px solid rgb(255, 174, 0);
+}
+.load{
+    cursor: pointer;
+}
+.cardss{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(240, 231, 231);
+    margin-top: 20px;
+    display: flex;
+}
+.picture{
+    margin-left: 640px;
+    font-size: 30px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cardss1{
+    box-shadow: 1px 1px 20px -1px;
+    display: flex;
+    background-image: url(../img/victoria-shes-UC0HZdUitWY-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+height: 240px;
+width: 250px;
+margin-top: 100px;
+margin-left: -470px;
+border-radius: 10px;
+}
+.cardss2{
+    box-shadow: 1px 1px 20px -1px;
+    background-image: url(../img/jonathan-borba-xUtkfr-qBFU-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+height: 240px;
+width: 250px;
+margin-left: 300px;
+border-radius: 10px;
+}
+.cardss3{
+    box-shadow: 1px 1px 20px -1px;
+    display: flex;
+    background-image: url(../img/joshua-kantarges-wO4CyWnIzz4-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+height: 240px;
+width: 250px;
+margin-left: 300px;
+border-radius: 10px;
+}
+.cardss4{
+    box-shadow: 1px 1px 20px -1px;
+ margin-top: 250px;   
+    background-image: url(../img/emerson-vieira-Qi7NlvF-ZsY-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+height: 240px;
+width: 250px;
+margin-left: -600px;
+border-radius: 10px;
+}
+.cardss5{
+    box-shadow: 1px 1px 20px -1px;
+       background-image: url(../img/khloe-arledge-ND3edEmzcdQ-unsplash.jpg);
+       background-position: center;
+       background-size: cover;
+   height: 240px;
+   width: 250px;
+   margin-left: 300px;
+   border-radius: 10px;
+   }
+   .cardss6{
+    box-shadow: 1px 1px 20px -1px;
+       background-image: url(../img/farhad-ibrahimzade-KpOl9jV2aJM-unsplash.jpg);
+       background-position: center;
+       background-size: cover;
+   height: 240px;
+   width: 250px;
+   margin-left: 300px;
+   border-radius: 10px;
+   }
+   .crcle{
+    background-color: rgba(0, 0, 0, 0.788);
+    height: 525px;
+    width: 100%;
+    display: flex;
+   }
+   .crcle2{
+   
+   height: 430px;
+   margin-top: 50px;
+   width: 1200px;
+   margin-left: 70px;
+   border-radius: 20px;
+   display: flex;
+   box-shadow:  rgb(255, 174, 0) 1px 1px 10px -2px ;
+   }
+   .crcle3{
+    height: 300px;
+    width: 300px;
+    background-image: url(../img/poultryHerbRoastedChicken.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 200px;
+    margin-left: -400px;
+    box-shadow: white 1px 1px 30px 1px;
+    margin-top: -315px;
+    display: flex;
+    border-top: 3px solid rgb(255, 174, 0);
+    border-bottom: 3px solid rgb(255, 174, 0);   
+    border-left: 3px solid rgb(255, 174, 0);
+    border-right: 3px solid rgb(255, 174, 0);
+}
+   h522{
+    color: rgb(255, 174, 0);
+    margin-left: 500px;
+    font-size: 40px;
+    margin-top: 10px;
+   }
+   h344{
+    color: #fff;
+    margin-top: 100px;
+    font-size: 15px;
+   }
+input{
+    margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(255, 174, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+border-bottom: 1px solid rgb(255, 174, 0);
+border-top: 1px solid rgb(255, 174, 0);
+border-left: 1px solid rgb(255, 174, 0);
+border-right: 1px solid rgb(255, 174, 0);
+display: flex;
+}
+input:hover{
+    cursor: pointer;
+}
+::placeholder{
+
+    color: white
+  
+}
+.lable{
+    height: 300px;
+    width: 100%;
+    background-color: white;
+display: flex;
+}
+.lable2{
+    height: 180px;
+    width: 1000px;
+    background-color: rgb(255, 174, 0);
+margin-left: 180px;
+margin-top: 60px;
+border-radius: 15px;
+color: #fff;
+font-size: 30PX;
+font-family: sans-serif;
+}
+input.A{
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -80px;
+    height: 50px;
+    width: 300px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 25px;
+}
+::placeholder{
+    color: black;
+}
+input.B{
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 850px;
+    margin-top: 5px;
+    height: 35px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.intro{
+    
+   
+    height: 300px;
+    width: 100%;
+    background-color: rgb(15, 14, 14);
+display: flex;
+border-bottom: 3px solid rgb(255, 174, 0);
+border-top: 3px solid rgb(255, 174, 0);
+}
+h543{
+    color: #fff;
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 180px;
+}
+h554{
+    color: rgb(255, 174, 0);
+    margin-left: -13px;
+}
+h564{
+    margin-left: 100px;
+}
+h575{
+    margin-left: 100px;
+}
+h585{
+    margin-left: 100px;
+}
+h654{
+    font-size: 12px;
+    color: #fff;
+    
+}
+.broken{
+    margin-top: -200px;
+    color: #fff;
+    margin-left: 469px;
+    font-size: 12px;
+}
+.broken2{
+    margin-top: -130px;
+    color: #fff;
+    margin-left: 730px;
+    font-size: 12px;
+}
+.broken3{
+    margin-top: -85px;
+    color: white;
+    margin-left: 990px;
+    font-size: 12px;
+}
+input.C{
+    margin-top: 10px;
+    height: 35px;
+    width: 220px;
+    border-bottom: 1px solid #fff ;
+    border-top: 1px solid #fff ;
+    border-left: 1px solid #fff ;
+    border-right: 1px solid #fff ;
+    background-color: rgb(15, 14, 14);
+    border-radius: 3px;
+}
+input.D{
+    margin-left: 220px;
+    width: 35px;
+    height: 35px;
+    
+    margin-top: -39px;
+  border-top-left-radius: 2px;
+  
+  border-bottom-left-radius: 2px;
+  display: flex;
+}
+h345{
+    
+    margin-left: 10px;
+}
+.email{
+    margin-left: 1000px;
+    color: white;
+    margin-top: -28px;
+    font-size: 15px;
+}
+i2{
+    color: white;
+    margin-left: 1220px;
+    margin-top: -40px;
+}
+.icon1{
+    margin-top: -17px;
+    font-size: 20px;
+}
+i3{
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 995px;
+    font-size: 30px;
+}
+i4{
+    color: #fff;
+    font-size: 30px;
+}
+i5{
+    color: #fff;
+    font-size: 30px;
+}
+i6{
+    color: #fff;
+    font-size: 30px;
+    border-bottom: 100px;
+}
+   /* .crcle{
+    background-color: rgba(0, 0, 0, 0.795);
+    height: 500px;
+    width: 100%;
+    display: flex;
+   }
+   .crcle5{
+    background-image: url(../img/poultryHerbRoastedChicken.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    margin-left: 200px;
+    margin-top: -400px;
+    box-shadow:  white 1px 1px 50px 1px ;
+   }
+   .crcle{
+    background-color: rgba(0, 0, 0, 0.822);
+    height: 300px;
+    width: 1200px;
+    border-radius: 20px;
+    margin-left: 70px;
+    margin-top: 100px;
+    
+   }
+   h54{
+    color: rgb(255, 174, 0);
+    margin-left: 500px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+   } */
